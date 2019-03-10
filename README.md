@@ -1,10 +1,8 @@
-##Back-end - Projeto Tweeter 
+###Back-end - Projeto Tweeter 
 
 Esse projeto é uma exemplo de chat, construído utilizando Node.JS.
 
-####Iniciando o projeto
-
-### Na pasta do projeto:
+ .Comandos básicos:
 
   `yarn init -y`
   `yarn add Express`
